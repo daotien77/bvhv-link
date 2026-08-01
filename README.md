@@ -9,9 +9,12 @@
 3. Link khai TANG CUONG: https://docs.google.com/forms/d/e/1FAIpQLSeaionQK3HIYP7EFNpWpyoi9xNHIbMHmApOBRJcCYP5xOhltQ/viewform
 4. GSHSBA :
    - https://docs.google.com/forms/d/e/1FAIpQLSdntkhztNj3u7CfXKLUIuQjvueUs5Xs01xkZAmtRec__VtPbg/viewform
-5. Quy trinh: https://web.bvhungvuong.vn/hv_tools2/public/login
-6. hieu suat PM : https://docs.google.com/spreadsheets/d/1k5UGNPrHShPyPA4EELMpxoTDwvujvU5pmOB_zZLmz1A/edit?gid=777638323#gid=777638323
-7. thung gang: https://docs.google.com/spreadsheets/d/1hXVEMao5DiWaAL9lWvQxq4ITGIbBKdvIEFP7UiWCWpw/edit
+5. `1680.BVHV _ mkHsoft`
+   - `Quy trinh - Khai bao di tre ve som`:    https://web.bvhungvuong.vn/hv_tools2/public/login
+   - `cham cong, E-learning`:   https://morongnhansu.bvhungvuong.vn/
+    
+7. hieu suat PM : https://docs.google.com/spreadsheets/d/1k5UGNPrHShPyPA4EELMpxoTDwvujvU5pmOB_zZLmz1A/edit?gid=777638323#gid=777638323
+8. thung gang: https://docs.google.com/spreadsheets/d/1hXVEMao5DiWaAL9lWvQxq4ITGIbBKdvIEFP7UiWCWpw/edit
 
 
 ## Outlook:
