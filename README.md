@@ -10,7 +10,7 @@
    - [`Quy trinh - Khai bao di tre ve som`](https://web.bvhungvuong.vn/hv_tools2/public/login)
    - [`cham cong, E-learning`](https://morongnhansu.bvhungvuong.vn/)
     
-7. [hieu suat PM](https://docs.google.com/spreadsheets/u/0/d/1k5UGNPrHShPyPA4EELMpxoTDwvujvU5pmOB_zZLmz1A/htmlview)
+7. [hieu suat PM2](https://docs.google.com/spreadsheets/d/1k5UGNPrHShPyPA4EELMpxoTDwvujvU5pmOB_zZLmz1A/edit?usp=drivesdk)
 8. [thung gang](https://docs.google.com/spreadsheets/d/1hXVEMao5DiWaAL9lWvQxq4ITGIbBKdvIEFP7UiWCWpw/edit)
 
 
