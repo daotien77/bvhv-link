@@ -17,3 +17,5 @@
 ## Outlook:
 - https://mail.bvhungvuong.vn/owa/auth/logon.aspx?replaceCurrent=1&url=https%3a%2f%2fmail.bvhungvuong.vn%2fowa%2f
 - tien.ntc_dd _ Bvhv@2023
+## drive
+https://drive.google.com/drive/folders/1sUCKYgBBA8CLxyal2VZ5MIohxye8UZiW
